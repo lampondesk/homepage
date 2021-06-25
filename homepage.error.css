@@ -12,19 +12,6 @@ h1, p, a {
 h1 {
   font-size: 1.2rem;
 }
-.flex-container {
-  display: flex;
-  flex-wrap: nowrap;
-}
-.flex-right {
-  margin-left: 10px;
-  display: flex;
-  align-items: center;
-}
-.flex-right img {
-  width: 77px;
-  height: 77px;
-}
 .mb-single {
   margin-bottom: 1rem;
 }
@@ -45,15 +32,9 @@ h1 {
   background-color: bisque;
   padding: 10px 10px 10px 10px;
 }
-.mt-0 {
-  margin-top: 0;
-}
-.mt-18p {
-  margin-top: 18px;
-}
-.mb-18p {
-  margin-bottom: 18px;
-}
-.mb-0 {
-  margin-bottom: 0;
+.img-error {
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+  height: auto;
 }
